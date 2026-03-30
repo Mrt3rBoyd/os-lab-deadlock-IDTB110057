@@ -13,3 +13,9 @@ Level 4 : Site-to-Site Sync (Multiplayer Deadlock)
 
 Level 5 : Global Resource Ordering (The Patch)
 ![Level 5 Screenshot](https://github.com/Mrt3rBoyd/os-lab-deadlock-IDTB110057/blob/main/Screenshot%202026-03-30%20104719.png)
+
+Level 6 : Global Resource Ordering (The Patch)
+![Level 6 Screenshot](https://github.com/Mrt3rBoyd/os-lab-deadlock-IDTB110057/blob/main/Screenshot%202026-03-30%20133428.png)
+
+Level 7 : Global Resource Ordering (The Patch)
+![Level 7 Screenshot](https://github.com/Mrt3rBoyd/os-lab-deadlock-IDTB110057/blob/main/Screenshot%202026-03-30%20135051.png)
